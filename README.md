@@ -19,7 +19,7 @@
 
 | Category | Technologies |
 |-----------|--------------|
-| **Frontend** | javascript, Next.js, Express, HTML, CSS, |
+| **Frontend** | javascript, HTML, CSS, |
 | **Backend** | Node.js, Express, MongoDB |
 | **Tools** | Git, Docker, VS Code, Postman |
 
