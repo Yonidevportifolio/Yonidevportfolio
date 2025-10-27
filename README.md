@@ -1,7 +1,7 @@
 <!-- Animated GitHub Profile (typing-style) -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Hi+👋,+I'm+Your+Name!;Full-stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Hi+👋,+I'm+Yonas+Mesfin!;Full-stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
 </h1>
 
 ---
